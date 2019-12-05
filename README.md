@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tetris Game made in React with Typescript (Still in Progress)
 
 ## Available Scripts
 
